@@ -1,3 +1,8 @@
+# Declare four variables in Python: one integer (number of followers), one
+# float (average rating), one string (your favorite app's name), and one 
+# boolean (is_premium_user). Print each variable and its type using the 
+# type() function.
+
 followers = 1500
 average_rating = 4.5
 favorite_app = "Instagram"

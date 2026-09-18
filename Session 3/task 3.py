@@ -1,3 +1,7 @@
+# Given a list of strings representing product prices from Flipkart, like
+# ['199.99', '299.50', '150'], convert all to floats and calculate the 
+# total cart value.
+
 prices = ['199.99','299.50','150']
 
 new_prices = []

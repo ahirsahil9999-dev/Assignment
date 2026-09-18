@@ -1,3 +1,8 @@
+# Write a function update_playlist_price(playlist, new_price) that
+# updates the price of a given playlist in the playlist_prices 
+# dictionary. Test it by updating the price of any one playlist 
+# and printing the updated dictionary.
+
 playlist_prices = {
     "Top Hits": 100,
     "Chill Vibes": 80,

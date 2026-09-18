@@ -1,3 +1,8 @@
+# Given two scenarios — storing a user's favorite genres (which may change)
+# and storing a fixed set of IRCTC train classes ('Sleeper', 'AC 3 Tier', 'AC 2 Tier') —
+# choose whether to use a list or tuple for each. Write one sentence explaining your choice 
+# for both.
+
 users_favorite_genres = ["Comedy_movie","Action_movie","Horror_movie","Romance_movie"]
 
 users_favorite_genres.pop(2)
